@@ -1,0 +1,22 @@
+Dynamic Difficulty Using Brain Metric of Workload
+
+Synopsis : 
+
+Travaux effectués à partir de mesures fNIRS afin de déterminer les états de concentrations des sujets. Les exercices 
+présentés se basaient sur un jeu mettant en jeu les collisions d'un appareil.  La difficulté de l'exercice était variable 
+et permettait de mesurer les signaux provenant du fNIR et d'effectuer une corrélation avec le nombre d'erreurs produites 
+par le sujet expérimenté.  Au cours de leuts expérimentations, les chercheurs visaient à confronter deux méthode 
+d'exercice : avec ou sans adaptation de la difficulté en fonction des signaux cérébraux du patient. 
+
+Eléments potentiellement intéressants :
+
+On remarque tout d'abord que le sujet de ce document de recherche et assez similaire à celui des précédents 
+travaux sur lesquels se basent nos données de départ. Le modèle du flux d'attention présenté dans la figure 
+1.A donne une version schématique intéressante de l'ancienne problématique. 
+
+On voit aussi que dans ce cas présent, les chercheurs ont préféré effectuer leurs études sur les signaux 
+moyennés des sujets. 
+
+Il me semble qu'ils adaptent à chaque sujet leurs modèle afin d'avoir de bonnes données. Ceci pourrait signifier 
+que chaque cas est unique et qu'il est donc probable qu'une classification des signaux en fonction des sujets 
+d'expérimentation est possible. 
